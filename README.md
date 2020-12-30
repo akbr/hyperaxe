@@ -6,23 +6,8 @@ Modified to rely on [@akbr/hyperscipt](https://github.com/akbr/hyperscript).
 
 An enchanted [hyperscript](https://github.com/hyperhype/hyperscript) weapon.
 
-[![npm][1]][2]
-[![travis][3]][4]
-[![standard][5]][6]
-[![downloads][7]][2]
-
-[1]: https://img.shields.io/npm/v/hyperaxe.svg?style=flat-square
-[2]: https://www.npmjs.com/package/hyperaxe
-[3]: https://img.shields.io/travis/ungoldman/hyperaxe/master.svg?style=flat-square
-[4]: https://travis-ci.org/ungoldman/hyperaxe
-[5]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
-[6]: http://standardjs.com/
-[7]: https://img.shields.io/npm/dm/hyperaxe.svg?style=flat-square
-
-</div>
-
 ```sh
-npm install hyperaxe
+npm install @akbr/hyperaxe
 ```
 
 ```js
@@ -201,25 +186,9 @@ Same as `createFactory`, except it only creates a new factory on the first call 
 - +1 vs. virtual DOM nodes.
 - Grants [Haste](http://engl393-dnd5th.wikia.com/wiki/Haste).
 
-## Dependencies
-
-- [html-tags](https://ghub.io/html-tags): List of standard HTML tags.
-- [hyperscript](https://ghub.io/hyperscript): Create HyperText with JavaScript, on client or server.
-
-## Dev Dependencies
-
-- [standard](https://ghub.io/standard): JavaScript Standard Style.
-- [standard-version](https://ghub.io/standard-version): Replacement for `npm version` with automatic CHANGELOG generation.
-- [tap-spec](https://ghub.io/tap-spec): Formatted TAP output like Mocha's spec reporter.
-- [tape](https://ghub.io/tape): tap-producing test harness for node and browsers.
-
 ## See Also
 
 This library's approach and API are heavily inspired by [reaxe](https://github.com/jxnblk/reaxe).
-
-## Contributing
-
-Contributors welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before getting started.
 
 ## License
 

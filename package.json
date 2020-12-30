@@ -8,5 +8,16 @@
     "html-tags": "^3.0.0"
   },
   "license": "ISC",
-  "main": "index.js"
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akbr/hyperaxe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akbr/hyperaxe/issues"
+  },
+  "homepage": "https://github.com/akbr/hyperaxe#readme"
 }
