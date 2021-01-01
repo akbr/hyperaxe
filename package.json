@@ -1,7 +1,7 @@
 {
   "name": "@akbr/hyperaxe",
   "description": "Enchanted hyperscript weapon.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Nate Goldman <ungoldman@gmail.com> (https://ungoldman.com/)",
   "dependencies": {
     "@akbr/hyperscript": ">=0.0.2",
