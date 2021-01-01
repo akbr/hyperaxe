@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "author": "Nate Goldman <ungoldman@gmail.com> (https://ungoldman.com/)",
   "dependencies": {
-    "@akbr/hyperscript": "^0.0.1",
+    "@akbr/hyperscript": ">=0.0.2",
     "html-tags": "^3.0.0"
   },
   "license": "ISC",
